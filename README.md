@@ -36,7 +36,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_infinite_scroll_pagination:
-    path: ../flutter_infinite_scroll_pagination
+    path: https://github.com/Excelsior-Technologies-Community/flutter_infinite_scro
 ```
 Then run:
 ```
@@ -47,10 +47,7 @@ flutter pub get
 
 ## 🎬 Preview
 
-
-
-
-
+https://github.com/user-attachments/assets/d8bf11b1-8cdc-4c77-9174-ab1a01a9926a
 
 --------------------------------------
 
