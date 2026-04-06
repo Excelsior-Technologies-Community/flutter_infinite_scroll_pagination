@@ -36,7 +36,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_infinite_scroll_pagination:
-    path: https://github.com/Excelsior-Technologies-Community/flutter_infinite_scro
+    path: https://github.com/Excelsior-Technologies-Community/flutter_infinite_scroll_pagination/tree/stage
 ```
 Then run:
 ```
