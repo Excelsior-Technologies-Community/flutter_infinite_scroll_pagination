@@ -58,7 +58,8 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Infinite Scroll Pagination'),
+        backgroundColor: Colors.blue,
+        title: Text('Infinite Scroll Pagination',style: TextStyle(color: Colors.white),),
       ),
       body: Column(
         children: [
